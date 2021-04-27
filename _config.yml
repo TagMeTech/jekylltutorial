@@ -18,6 +18,8 @@ defaults:
     values:
       layout: "default"
 
+baseurl: "/jekylltutorial" # does not include hostname
+
 plugins:
   - jekyll-feed
   - jekyll-sitemap
