@@ -1,8 +1,10 @@
 - name: Home
-  link: /jekylltutorial
+  link: /
 - name: About
-  link: /jekylltutorial/about.html
+  link: /about.html
 - name: Blog
-  link: /jekylltutorial/blog.html
+  link: /blog.html
+- name: Blog With Page
+  link: /blog/index.html
 - name: Staff
-  link: /jekylltutorial/staff.html
+  link: /staff.html
